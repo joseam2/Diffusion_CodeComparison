@@ -1,5 +1,5 @@
 # Diffusion_CodeComparison
-A small diffusion code that compares gpu parallelized python and julia codes
+A small diffusion code that compares gpu and cpu parallelized python and julia codes
 
 --------
 Testing Hardware:
